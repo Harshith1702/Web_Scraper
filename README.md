@@ -1,7 +1,5 @@
 # Web Scraping Projects (Java & Python)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Simple beginner-friendly web scraping examples implemented in **Java** and **Python**.
 
@@ -34,8 +32,8 @@ This Java program scrapes quotes from a public website and stores them in a CSV 
 **quotes.csv**  
 ```csv
 S.No,Quote,ScrapedAt
-1,"Life is what happens when you're busy making other plans.",2025-04-10 14:35:22
-2,"The best revenge is massive success.",2025-04-10 14:35:22
+1,"The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",Wed Oct 08 10:35:59 IST 2025
+2,"It is our choices, Harry, that show what we truly are, far more than our abilities.",Wed Oct 08 10:35:59 IST 2025
 ...
 ```
 
@@ -56,8 +54,8 @@ This Python script extracts news headlines from the BBC News website.
 **headlines.csv**  
 ```csv
 S.No,Headline
-1,"UK and EU agree new post-Brexit trade framework"
-2,"Global stocks surge after surprise Fed rate cut"
+1,US downplays threat to Gaza ceasefire as Hamas says more time needed to find hostage bodies
+2,Trump says Modi has agreed to stop buying Russian oil
 ...
 ```
 
