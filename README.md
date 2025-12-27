@@ -10,10 +10,10 @@ For educational and learning purposes only.
 
 ## Projects Overview
 
-| # | **File**            | **Language** | **Target Website**             | **Output File** | **Libraries Used**          |
-|---|---------------------|--------------|--------------------------------|------------------|-----------------------------|
-| 1 | WebScraper.java     | Java         | http://quotes.toscrape.com     | quotes.csv       | Jsoup                       |
-| 2 | news.py             | Python       | https://www.bbc.com/news       | headlines.csv    | requests, BeautifulSoup     |
+| # | **File**            | **Language** | **Target Website**             | **Output File**                | **Libraries Used**          |
+|---|---------------------|--------------|--------------------------------|--------------------------------|-----------------------------|
+| 1 | WebScraper.java     | Java         | http://quotes.toscrape.com     | [quotes.csv](quotes.csv)       | Jsoup                       |
+| 2 | news.py             | Python       | https://www.bbc.com/news       | [headlines.csv](headlines.csv) | requests, BeautifulSoup     |
 
 ---
 
@@ -29,7 +29,7 @@ This Java program scrapes quotes from a public website and stores them in a CSV 
 - Saves data into a CSV file
 
 ### Output Format
-**quotes.csv**  
+**[quotes.csv](quotes.csv)**  
 ```csv
 S.No,Quote,ScrapedAt
 1,"The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",Wed Oct 08 10:35:59 IST 2025
@@ -51,7 +51,7 @@ This Python script extracts news headlines from the BBC News website.
 - Saves top 15 headlines to a CSV file
 
 ### Output Format
-**headlines.csv**  
+**[headlines.csv](headlines.csv)**  
 ```csv
 S.No,Headline
 1,US downplays threat to Gaza ceasefire as Hamas says more time needed to find hostage bodies
